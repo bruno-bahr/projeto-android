@@ -125,7 +125,7 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 0px 0px 20px rgba(128, 128, 128, 0.61);
-    border-radius: 0px 0px 10px 10px;
+    
     
 }
 
@@ -200,6 +200,7 @@ footer{
     padding: 6px;
     font-size: .8em;
     font-weight: lighter;
-    max-width: 1000px;
+    max-width: 1012px;
     margin: auto;
+    border-radius: 0px 0px 10px 10px;
 }
